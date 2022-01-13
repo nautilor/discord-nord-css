@@ -5,4 +5,4 @@ This is the [discocss](https://github.com/mlvzk/discocss) theme I created to use
 
 # Preview
 
-![](preview/preview.mp4)
+![](preview/preview.gif)
